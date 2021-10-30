@@ -1,0 +1,14 @@
+.loading{
+    width: 100vw;
+    height: 100vh;
+    position: fixed;
+    background: rgba(231,231,231,0.95);
+    display: flex;
+    z-index: 500;
+
+}
+.loading img{
+    margin: auto;
+    width: 10vw;
+    height: 10vw;
+}
